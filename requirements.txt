@@ -1,0 +1,5 @@
+numpy~=1.26.4
+scipy~=1.14.0
+streamlit~=1.43.2
+pyvista~=0.44.2
+vtks
